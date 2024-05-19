@@ -1,0 +1,2961 @@
+entity {
+  id: "DL1PD5774"
+  vehicle {
+    trip {
+      trip_id: "147_14_35_5576_new"
+      start_time: "14:35:34"
+      start_date: "20230314"
+      route_id: "147"
+    }
+    position {
+      latitude: 28.682318
+      longitude: 77.03235
+      speed: 0.0
+    }
+    timestamp: 1679050215
+    vehicle {
+      id: "DL1PD5774"
+      label: "DL1PD5774"
+    }
+  }
+}
+entity {
+  id: "DL1PD5372"
+  vehicle {
+    trip {
+      trip_id: "782_10_23"
+      start_time: "10:35:45"
+      start_date: "20230316"
+      route_id: "782"
+    }
+    position {
+      latitude: 28.589983
+      longitude: 77.24565
+      speed: 0.0
+    }
+    timestamp: 1679050213
+    vehicle {
+      id: "DL1PD5372"
+      label: "DL1PD5372"
+    }
+  }
+}
+entity {
+  id: "DL1PD5627"
+  vehicle {
+    trip {
+      trip_id: "1405_16_05"
+      start_time: "16:36:51"
+      start_date: "20230314"
+      route_id: "1405"
+    }
+    position {
+      latitude: 28.579063
+      longitude: 77.20041
+      speed: 0.0
+    }
+    timestamp: 1679050212
+    vehicle {
+      id: "DL1PD5627"
+      label: "DL1PD5627"
+    }
+  }
+}
+entity {
+  id: "DL1PD6035"
+  vehicle {
+    trip {
+      trip_id: "1863_15_21_9638_new"
+      start_time: "15:21:13"
+      start_date: "20230314"
+      route_id: "1863"
+    }
+    position {
+      latitude: 28.67078
+      longitude: 77.12863
+      speed: 0.0
+    }
+    timestamp: 1679050211
+    vehicle {
+      id: "DL1PD6035"
+      label: "DL1PD6035"
+    }
+  }
+}
+entity {
+  id: "DL1PD1171"
+  vehicle {
+    trip {
+      trip_id: "1037_15_34_4043_new"
+      start_time: "15:34:33"
+      start_date: "20230314"
+      route_id: "1037"
+    }
+    position {
+      latitude: 28.645794
+      longitude: 77.31519
+      speed: 0.0
+    }
+    timestamp: 1679050208
+    vehicle {
+      id: "DL1PD1171"
+      label: "DL1PD1171"
+    }
+  }
+}
+entity {
+  id: "DL1PD4843"
+  vehicle {
+    trip {
+      trip_id: "902_15_48"
+      start_time: "15:33:30"
+      start_date: "20230314"
+      route_id: "902"
+    }
+    position {
+      latitude: 28.720934
+      longitude: 77.14119
+      speed: 0.0
+    }
+    timestamp: 1679050207
+    vehicle {
+      id: "DL1PD4843"
+      label: "DL1PD4843"
+    }
+  }
+}
+entity {
+  id: "DL1PD0572"
+  vehicle {
+    trip {
+      trip_id: "1324_16_08"
+      start_time: "16:34:15"
+      start_date: "20230314"
+      route_id: "1324"
+    }
+    position {
+      latitude: 28.545303
+      longitude: 77.2302
+      speed: 0.0
+    }
+    timestamp: 1679050207
+    vehicle {
+      id: "DL1PD0572"
+      label: "DL1PD0572"
+    }
+  }
+}
+entity {
+  id: "DL1PD4639"
+  vehicle {
+    trip {
+      trip_id: "467_12_21_9862_new"
+      start_time: "12:21:49"
+      start_date: "20230315"
+      route_id: "467"
+    }
+    position {
+      latitude: 28.641018
+      longitude: 77.01217
+      speed: 0.0
+    }
+    timestamp: 1679050206
+    vehicle {
+      id: "DL1PD4639"
+      label: "DL1PD4639"
+    }
+  }
+}
+entity {
+  id: "DL1PD4845"
+  vehicle {
+    trip {
+      trip_id: "648_15_45"
+      start_time: "15:34:17"
+      start_date: "20230314"
+      route_id: "648"
+    }
+    position {
+      latitude: 28.534025
+      longitude: 77.089935
+      speed: 0.0
+    }
+    timestamp: 1679050201
+    vehicle {
+      id: "DL1PD4845"
+      label: "DL1PD4845"
+    }
+  }
+}
+entity {
+  id: "DL1PD4802"
+  vehicle {
+    trip {
+      trip_id: "906_14_59"
+      start_time: "16:53:17"
+      start_date: "20230314"
+      route_id: "906"
+    }
+    position {
+      latitude: 28.729813
+      longitude: 77.122665
+      speed: 0.0
+    }
+    timestamp: 1679050198
+    vehicle {
+      id: "DL1PD4802"
+      label: "DL1PD4802"
+    }
+  }
+}
+entity {
+  id: "DL1PD5586"
+  vehicle {
+    trip {
+      trip_id: "194_18_50"
+      start_time: "19:52:04"
+      start_date: "20230314"
+      route_id: "194"
+    }
+    position {
+      latitude: 28.546309
+      longitude: 77.12569
+      speed: 0.0
+    }
+    timestamp: 1679050197
+    vehicle {
+      id: "DL1PD5586"
+      label: "DL1PD5586"
+    }
+  }
+}
+entity {
+  id: "DL1PD4634"
+  vehicle {
+    trip {
+      trip_id: "1190_14_39_454_new"
+      start_time: "14:39:27"
+      start_date: "20230314"
+      route_id: "1190"
+    }
+    position {
+      latitude: 28.617617
+      longitude: 77.21436
+      speed: 0.0
+    }
+    timestamp: 1679050192
+    vehicle {
+      id: "DL1PD4634"
+      label: "DL1PD4634"
+    }
+  }
+}
+entity {
+  id: "DL1PD4930"
+  vehicle {
+    trip {
+      trip_id: "1549_17_20"
+      start_time: "17:29:03"
+      start_date: "20230314"
+      route_id: "1549"
+    }
+    position {
+      latitude: 28.712662
+      longitude: 77.158875
+      speed: 0.0
+    }
+    timestamp: 1679050186
+    vehicle {
+      id: "DL1PD4930"
+      label: "DL1PD4930"
+    }
+  }
+}
+entity {
+  id: "DL1PD0083"
+  vehicle {
+    trip {
+      trip_id: "942_15_12"
+      start_time: "15:46:16"
+      start_date: "20230314"
+      route_id: "942"
+    }
+    position {
+      latitude: 28.704973
+      longitude: 77.13195
+      speed: 0.0
+    }
+    timestamp: 1679050185
+    vehicle {
+      id: "DL1PD0083"
+      label: "DL1PD0083"
+    }
+  }
+}
+entity {
+  id: "DL1PD4588"
+  vehicle {
+    trip {
+      trip_id: "975_15_31"
+      start_time: "16:03:44"
+      start_date: "20230314"
+      route_id: "975"
+    }
+    position {
+      latitude: 28.624027
+      longitude: 77.06562
+      speed: 0.0
+    }
+    timestamp: 1679050178
+    vehicle {
+      id: "DL1PD4588"
+      label: "DL1PD4588"
+    }
+  }
+}
+entity {
+  id: "DL1PD3585"
+  vehicle {
+    trip {
+      trip_id: "475_19_52"
+      start_time: "20:27:44"
+      start_date: "20230315"
+      route_id: "475"
+    }
+    position {
+      latitude: 28.650824
+      longitude: 77.09605
+      speed: 0.0
+    }
+    timestamp: 1679050175
+    vehicle {
+      id: "DL1PD3585"
+      label: "DL1PD3585"
+    }
+  }
+}
+entity {
+  id: "DL1PD5801"
+  vehicle {
+    trip {
+      trip_id: "141_06_16"
+      start_time: "07:33:20"
+      start_date: "20230316"
+      route_id: "141"
+    }
+    position {
+      latitude: 28.670364
+      longitude: 77.13243
+      speed: 0.0
+    }
+    timestamp: 1679050169
+    vehicle {
+      id: "DL1PD5801"
+      label: "DL1PD5801"
+    }
+  }
+}
+entity {
+  id: "DL1PD5149"
+  vehicle {
+    trip {
+      trip_id: "1109_06_48"
+      start_time: "08:04:32"
+      start_date: "20230316"
+      route_id: "1109"
+    }
+    position {
+      latitude: 28.640957
+      longitude: 77.17582
+      speed: 0.0
+    }
+    timestamp: 1679050163
+    vehicle {
+      id: "DL1PD5149"
+      label: "DL1PD5149"
+    }
+  }
+}
+entity {
+  id: "DL1PD4525"
+  vehicle {
+    trip {
+      trip_id: "139_14_46"
+      start_time: "15:22:16"
+      start_date: "20230314"
+      route_id: "139"
+    }
+    position {
+      latitude: 28.767311
+      longitude: 77.136475
+      speed: 0.0
+    }
+    timestamp: 1679050160
+    vehicle {
+      id: "DL1PD4525"
+      label: "DL1PD4525"
+    }
+  }
+}
+entity {
+  id: "DL1PC6583"
+  vehicle {
+    trip {
+      trip_id: "550_16_15"
+      start_time: "15:58:44"
+      start_date: "20230314"
+      route_id: "550"
+    }
+    position {
+      latitude: 28.660645
+      longitude: 77.14808
+      speed: 0.0
+    }
+    timestamp: 1679050149
+    vehicle {
+      id: "DL1PC6583"
+      label: "DL1PC6583"
+    }
+  }
+}
+entity {
+  id: "DL1PD5348"
+  vehicle {
+    trip {
+      trip_id: "808_15_30"
+      start_time: "16:20:53"
+      start_date: "20230317"
+      route_id: "808"
+    }
+    position {
+      latitude: 28.621605
+      longitude: 77.20469
+      speed: 0.0
+    }
+    timestamp: 1679050144
+    vehicle {
+      id: "DL1PD5348"
+      label: "DL1PD5348"
+    }
+  }
+}
+entity {
+  id: "DL1PD2461"
+  vehicle {
+    trip {
+      trip_id: "1594_08_16"
+      start_time: "08:21:19"
+      start_date: "20230316"
+      route_id: "1594"
+    }
+    position {
+      latitude: 28.617922
+      longitude: 77.33688
+      speed: 0.0
+    }
+    timestamp: 1679050135
+    vehicle {
+      id: "DL1PD2461"
+      label: "DL1PD2461"
+    }
+  }
+}
+entity {
+  id: "DL1PD5654"
+  vehicle {
+    trip {
+      trip_id: "730_15_54"
+      start_time: "17:33:04"
+      start_date: "20230314"
+      route_id: "730"
+    }
+    position {
+      latitude: 28.660292
+      longitude: 77.22894
+      speed: 0.0
+    }
+    timestamp: 1679050134
+    vehicle {
+      id: "DL1PD5654"
+      label: "DL1PD5654"
+    }
+  }
+}
+entity {
+  id: "DL1PC6646"
+  vehicle {
+    trip {
+      trip_id: "1743_15_07"
+      start_time: "15:54:36"
+      start_date: "20230314"
+      route_id: "1743"
+    }
+    position {
+      latitude: 28.569687
+      longitude: 77.21336
+      speed: 0.0
+    }
+    timestamp: 1679050132
+    vehicle {
+      id: "DL1PC6646"
+      label: "DL1PC6646"
+    }
+  }
+}
+entity {
+  id: "DL1PD4665"
+  vehicle {
+    trip {
+      trip_id: "118_20_51_3424_new"
+      start_time: "20:51:49"
+      start_date: "20230315"
+      route_id: "118"
+    }
+    position {
+      latitude: 28.556643
+      longitude: 77.06064
+      speed: 0.0
+    }
+    timestamp: 1679050132
+    vehicle {
+      id: "DL1PD4665"
+      label: "DL1PD4665"
+    }
+  }
+}
+entity {
+  id: "DL1PD5406"
+  vehicle {
+    trip {
+      trip_id: "810_13_42"
+      start_time: "14:35:35"
+      start_date: "20230314"
+      route_id: "810"
+    }
+    position {
+      latitude: 28.624716
+      longitude: 77.06461
+      speed: 0.0
+    }
+    timestamp: 1679050132
+    vehicle {
+      id: "DL1PD5406"
+      label: "DL1PD5406"
+    }
+  }
+}
+entity {
+  id: "DL1PD2374"
+  vehicle {
+    trip {
+      trip_id: "1721_15_20"
+      start_time: "16:23:02"
+      start_date: "20230314"
+      route_id: "1721"
+    }
+    position {
+      latitude: 28.594244
+      longitude: 77.07388
+      speed: 0.0
+    }
+    timestamp: 1679050125
+    vehicle {
+      id: "DL1PD2374"
+      label: "DL1PD2374"
+    }
+  }
+}
+entity {
+  id: "DL1PD4631"
+  vehicle {
+    trip {
+      trip_id: "981_15_10"
+      start_time: "15:45:28"
+      start_date: "20230314"
+      route_id: "981"
+    }
+    position {
+      latitude: 28.608252
+      longitude: 76.95145
+      speed: 0.0
+    }
+    timestamp: 1679050125
+    vehicle {
+      id: "DL1PD4631"
+      label: "DL1PD4631"
+    }
+  }
+}
+entity {
+  id: "DL1PD5183"
+  vehicle {
+    trip {
+      trip_id: "892_15_36"
+      start_time: "15:53:33"
+      start_date: "20230314"
+      route_id: "892"
+    }
+    position {
+      latitude: 28.603598
+      longitude: 76.98756
+      speed: 0.0
+    }
+    timestamp: 1679050124
+    vehicle {
+      id: "DL1PD5183"
+      label: "DL1PD5183"
+    }
+  }
+}
+entity {
+  id: "DL1PD4206"
+  vehicle {
+    trip {
+      trip_id: "1566_14_36_9786_new"
+      start_time: "14:36:01"
+      start_date: "20230314"
+      route_id: "1566"
+    }
+    position {
+      latitude: 28.577059
+      longitude: 77.21034
+      speed: 0.0
+    }
+    timestamp: 1679050121
+    vehicle {
+      id: "DL1PD4206"
+      label: "DL1PD4206"
+    }
+  }
+}
+entity {
+  id: "DL1PD6047"
+  vehicle {
+    trip {
+      trip_id: "683_16_03"
+      start_time: "16:03:45"
+      start_date: "20230314"
+      route_id: "683"
+    }
+    position {
+      latitude: 28.6787
+      longitude: 77.09763
+      speed: 0.0
+    }
+    timestamp: 1679050110
+    vehicle {
+      id: "DL1PD6047"
+      label: "DL1PD6047"
+    }
+  }
+}
+entity {
+  id: "DL1PD4786"
+  vehicle {
+    trip {
+      trip_id: "1519_15_33_7185_new"
+      start_time: "15:33:30"
+      start_date: "20230314"
+      route_id: "1519"
+    }
+    position {
+      latitude: 28.698214
+      longitude: 77.20572
+      speed: 0.0
+    }
+    timestamp: 1679050105
+    vehicle {
+      id: "DL1PD4786"
+      label: "DL1PD4786"
+    }
+  }
+}
+entity {
+  id: "DL1PD2342"
+  vehicle {
+    trip {
+      trip_id: "1594_13_28"
+      start_time: "13:33:28"
+      start_date: "20230316"
+      route_id: "1594"
+    }
+    position {
+      latitude: 28.623533
+      longitude: 77.31964
+      speed: 0.0
+    }
+    timestamp: 1679050105
+    vehicle {
+      id: "DL1PD2342"
+      label: "DL1PD2342"
+    }
+  }
+}
+entity {
+  id: "DL1PD5004"
+  vehicle {
+    trip {
+      trip_id: "1819_6_57_2528_new"
+      start_time: "06:57:27"
+      start_date: "20230317"
+      route_id: "1819"
+    }
+    position {
+      latitude: 28.698366
+      longitude: 77.205666
+      speed: 0.0
+    }
+    timestamp: 1679050099
+    vehicle {
+      id: "DL1PD5004"
+      label: "DL1PD5004"
+    }
+  }
+}
+entity {
+  id: "DL1PD0796"
+  vehicle {
+    trip {
+      trip_id: "282_14_46_897_new"
+      start_time: "14:46:33"
+      start_date: "20230314"
+      route_id: "282"
+    }
+    position {
+      latitude: 28.569607
+      longitude: 77.13467
+      speed: 0.0
+    }
+    timestamp: 1679050094
+    vehicle {
+      id: "DL1PD0796"
+      label: "DL1PD0796"
+    }
+  }
+}
+entity {
+  id: "DL1PD5643"
+  vehicle {
+    trip {
+      trip_id: "698_09_39"
+      start_time: "11:12:04"
+      start_date: "20230317"
+      route_id: "698"
+    }
+    position {
+      latitude: 28.601425
+      longitude: 77.23784
+      speed: 0.0
+    }
+    timestamp: 1679050091
+    vehicle {
+      id: "DL1PD5643"
+      label: "DL1PD5643"
+    }
+  }
+}
+entity {
+  id: "DL1PD5412"
+  vehicle {
+    trip {
+      trip_id: "436_15_23"
+      start_time: "15:33:30"
+      start_date: "20230316"
+      route_id: "436"
+    }
+    position {
+      latitude: 28.632072
+      longitude: 77.21638
+      speed: 0.0
+    }
+    timestamp: 1679050083
+    vehicle {
+      id: "DL1PD5412"
+      label: "DL1PD5412"
+    }
+  }
+}
+entity {
+  id: "DL1PD5599"
+  vehicle {
+    trip {
+      trip_id: "1887_18_40"
+      start_time: "20:11:10"
+      start_date: "20230316"
+      route_id: "1887"
+    }
+    position {
+      latitude: 28.724333
+      longitude: 77.06
+      speed: 0.0
+    }
+    timestamp: 1679050079
+    vehicle {
+      id: "DL1PD5599"
+      label: "DL1PD5599"
+    }
+  }
+}
+entity {
+  id: "DL1PC6764"
+  vehicle {
+    trip {
+      trip_id: "916_13_22"
+      start_time: "14:35:38"
+      start_date: "20230314"
+      route_id: "916"
+    }
+    position {
+      latitude: 28.612892
+      longitude: 77.303825
+      speed: 0.0
+    }
+    timestamp: 1679050075
+    vehicle {
+      id: "DL1PC6764"
+      label: "DL1PC6764"
+    }
+  }
+}
+entity {
+  id: "DL1PC6578"
+  vehicle {
+    trip {
+      trip_id: "521_14_56"
+      start_time: "15:04:17"
+      start_date: "20230314"
+      route_id: "521"
+    }
+    position {
+      latitude: 28.666906
+      longitude: 77.227875
+      speed: 0.0
+    }
+    timestamp: 1679050073
+    vehicle {
+      id: "DL1PC6578"
+      label: "DL1PC6578"
+    }
+  }
+}
+entity {
+  id: "DL1PC6503"
+  vehicle {
+    trip {
+      trip_id: "1235_15_05"
+      start_time: "15:32:12"
+      start_date: "20230314"
+      route_id: "1235"
+    }
+    position {
+      latitude: 28.698492
+      longitude: 77.20553
+      speed: 0.0
+    }
+    timestamp: 1679050072
+    vehicle {
+      id: "DL1PC6503"
+      label: "DL1PC6503"
+    }
+  }
+}
+entity {
+  id: "DL1PD5708"
+  vehicle {
+    trip {
+      trip_id: "1868_16_26"
+      start_time: "17:06:08"
+      start_date: "20230314"
+      route_id: "1868"
+    }
+    position {
+      latitude: 28.521683
+      longitude: 77.18978
+      speed: 0.0
+    }
+    timestamp: 1679050072
+    vehicle {
+      id: "DL1PD5708"
+      label: "DL1PD5708"
+    }
+  }
+}
+entity {
+  id: "DL1PD5490"
+  vehicle {
+    trip {
+      trip_id: "625_08_11"
+      start_time: "08:51:00"
+      start_date: "20230315"
+      route_id: "625"
+    }
+    position {
+      latitude: 28.58666
+      longitude: 77.2401
+      speed: 0.0
+    }
+    timestamp: 1679050071
+    vehicle {
+      id: "DL1PD5490"
+      label: "DL1PD5490"
+    }
+  }
+}
+entity {
+  id: "DL1PD4348"
+  vehicle {
+    trip {
+      trip_id: "397_17_15"
+      start_time: "18:05:20"
+      start_date: "20230314"
+      route_id: "397"
+    }
+    position {
+      latitude: 28.71519
+      longitude: 77.13945
+      speed: 0.0
+    }
+    timestamp: 1679050068
+    vehicle {
+      id: "DL1PD4348"
+      label: "DL1PD4348"
+    }
+  }
+}
+entity {
+  id: "DL1PD4742"
+  vehicle {
+    trip {
+      trip_id: "539_13_28"
+      start_time: "14:35:36"
+      start_date: "20230314"
+      route_id: "539"
+    }
+    position {
+      latitude: 28.61125
+      longitude: 76.97523
+      speed: 0.0
+    }
+    timestamp: 1679050066
+    vehicle {
+      id: "DL1PD4742"
+      label: "DL1PD4742"
+    }
+  }
+}
+entity {
+  id: "DL1PD2988"
+  vehicle {
+    trip {
+      trip_id: "737_14_22"
+      start_time: "16:03:44"
+      start_date: "20230314"
+      route_id: "737"
+    }
+    position {
+      latitude: 28.629173
+      longitude: 77.123
+      speed: 0.0
+    }
+    timestamp: 1679050058
+    vehicle {
+      id: "DL1PD2988"
+      label: "DL1PD2988"
+    }
+  }
+}
+entity {
+  id: "DL1PD2999"
+  vehicle {
+    trip {
+      trip_id: "22_15_27_5267_new"
+      start_time: "15:27:29"
+      start_date: "20230314"
+      route_id: "22"
+    }
+    position {
+      latitude: 28.530146
+      longitude: 77.08687
+      speed: 0.0
+    }
+    timestamp: 1679050048
+    vehicle {
+      id: "DL1PD2999"
+      label: "DL1PD2999"
+    }
+  }
+}
+entity {
+  id: "DL1PC6305"
+  vehicle {
+    trip {
+      trip_id: "1631_14_38"
+      start_time: "14:36:00"
+      start_date: "20230314"
+      route_id: "1631"
+    }
+    position {
+      latitude: 28.522943
+      longitude: 77.082855
+      speed: 0.0
+    }
+    timestamp: 1679050047
+    vehicle {
+      id: "DL1PC6305"
+      label: "DL1PC6305"
+    }
+  }
+}
+entity {
+  id: "DL1PD4389"
+  vehicle {
+    trip {
+      trip_id: "1860_06_00"
+      start_time: "08:06:56"
+      start_date: "20230315"
+      route_id: "1860"
+    }
+    position {
+      latitude: 28.738405
+      longitude: 77.11707
+      speed: 0.0
+    }
+    timestamp: 1679050046
+    vehicle {
+      id: "DL1PD4389"
+      label: "DL1PD4389"
+    }
+  }
+}
+entity {
+  id: "DL1PD4244"
+  vehicle {
+    trip {
+      trip_id: "87_15_10"
+      start_time: "16:31:55"
+      start_date: "20230314"
+      route_id: "87"
+    }
+    position {
+      latitude: 28.697987
+      longitude: 77.118065
+      speed: 0.0
+    }
+    timestamp: 1679050045
+    vehicle {
+      id: "DL1PD4244"
+      label: "DL1PD4244"
+    }
+  }
+}
+entity {
+  id: "DL1PD4990"
+  vehicle {
+    trip {
+      trip_id: "248_12_48"
+      start_time: "14:52:20"
+      start_date: "20230317"
+      route_id: "248"
+    }
+    position {
+      latitude: 28.697166
+      longitude: 77.11466
+      speed: 0.0
+    }
+    timestamp: 1679050044
+    vehicle {
+      id: "DL1PD4990"
+      label: "DL1PD4990"
+    }
+  }
+}
+entity {
+  id: "DL1PC6581"
+  vehicle {
+    trip {
+      trip_id: "1907_17_07"
+      start_time: "16:57:42"
+      start_date: "20230314"
+      route_id: "1907"
+    }
+    position {
+      latitude: 28.493795
+      longitude: 77.30328
+      speed: 0.0
+    }
+    timestamp: 1679050042
+    vehicle {
+      id: "DL1PC6581"
+      label: "DL1PC6581"
+    }
+  }
+}
+entity {
+  id: "DL1PD4959"
+  vehicle {
+    trip {
+      trip_id: "573_3_50_3054_new"
+      start_time: "03:50:33"
+      start_date: "20230315"
+      route_id: "573"
+    }
+    position {
+      latitude: 28.621408
+      longitude: 77.08888
+      speed: 0.0
+    }
+    timestamp: 1679050040
+    vehicle {
+      id: "DL1PD4959"
+      label: "DL1PD4959"
+    }
+  }
+}
+entity {
+  id: "DL1PD4262"
+  vehicle {
+    trip {
+      trip_id: "259_15_16_3003_new"
+      start_time: "15:16:34"
+      start_date: "20230314"
+      route_id: "259"
+    }
+    position {
+      latitude: 28.738167
+      longitude: 77.00552
+      speed: 0.0
+    }
+    timestamp: 1679050037
+    vehicle {
+      id: "DL1PD4262"
+      label: "DL1PD4262"
+    }
+  }
+}
+entity {
+  id: "DL1PD5181"
+  vehicle {
+    trip {
+      trip_id: "1086_23_41_4765_new"
+      start_time: "23:41:03"
+      start_date: "20230314"
+      route_id: "1086"
+    }
+    position {
+      latitude: 28.602768
+      longitude: 76.987854
+      speed: 0.0
+    }
+    timestamp: 1679050036
+    vehicle {
+      id: "DL1PD5181"
+      label: "DL1PD5181"
+    }
+  }
+}
+entity {
+  id: "DL1PD5085"
+  vehicle {
+    trip {
+      trip_id: "1101_15_34_1401_new"
+      start_time: "15:34:33"
+      start_date: "20230314"
+      route_id: "1101"
+    }
+    position {
+      latitude: 28.629927
+      longitude: 77.236664
+      speed: 0.0
+    }
+    timestamp: 1679050033
+    vehicle {
+      id: "DL1PD5085"
+      label: "DL1PD5085"
+    }
+  }
+}
+entity {
+  id: "DL1PD5210"
+  vehicle {
+    trip {
+      trip_id: "323_15_55"
+      start_time: "16:09:27"
+      start_date: "20230314"
+      route_id: "323"
+    }
+    position {
+      latitude: 28.584675
+      longitude: 77.09178
+      speed: 0.0
+    }
+    timestamp: 1679050024
+    vehicle {
+      id: "DL1PD5210"
+      label: "DL1PD5210"
+    }
+  }
+}
+entity {
+  id: "DL1PD4296"
+  vehicle {
+    trip {
+      trip_id: "386_09_50"
+      start_time: "11:31:07"
+      start_date: "20230315"
+      route_id: "386"
+    }
+    position {
+      latitude: 28.706202
+      longitude: 77.1318
+      speed: 0.0
+    }
+    timestamp: 1679050021
+    vehicle {
+      id: "DL1PD4296"
+      label: "DL1PD4296"
+    }
+  }
+}
+entity {
+  id: "DL1PD4196"
+  vehicle {
+    trip {
+      trip_id: "1544_15_30"
+      start_time: "16:20:26"
+      start_date: "20230314"
+      route_id: "1544"
+    }
+    position {
+      latitude: 28.695429
+      longitude: 77.14725
+      speed: 0.0
+    }
+    timestamp: 1679050018
+    vehicle {
+      id: "DL1PD4196"
+      label: "DL1PD4196"
+    }
+  }
+}
+entity {
+  id: "DL1PD0015"
+  vehicle {
+    trip {
+      trip_id: "1535_15_03"
+      start_time: "16:04:17"
+      start_date: "20230314"
+      route_id: "1535"
+    }
+    position {
+      latitude: 28.64628
+      longitude: 77.11651
+      speed: 0.0
+    }
+    timestamp: 1679050017
+    vehicle {
+      id: "DL1PD0015"
+      label: "DL1PD0015"
+    }
+  }
+}
+entity {
+  id: "DL1PC4638"
+  vehicle {
+    trip {
+      trip_id: "1393_14_42_1221_new"
+      start_time: "14:42:04"
+      start_date: "20230314"
+      route_id: "1393"
+    }
+    position {
+      latitude: 28.666979
+      longitude: 77.22936
+      speed: 0.0
+    }
+    timestamp: 1679050016
+    vehicle {
+      id: "DL1PC4638"
+      label: "DL1PC4638"
+    }
+  }
+}
+entity {
+  id: "DL1PD4585"
+  vehicle {
+    trip {
+      trip_id: "333_12_32"
+      start_time: "13:33:37"
+      start_date: "20230317"
+      route_id: "333"
+    }
+    position {
+      latitude: 28.545649
+      longitude: 77.12304
+      speed: 0.0
+    }
+    timestamp: 1679050015
+    vehicle {
+      id: "DL1PD4585"
+      label: "DL1PD4585"
+    }
+  }
+}
+entity {
+  id: "DL1PC5516"
+  vehicle {
+    trip {
+      trip_id: "181_16_17"
+      start_time: "16:41:32"
+      start_date: "20230314"
+      route_id: "181"
+    }
+    position {
+      latitude: 28.652954
+      longitude: 77.236786
+      speed: 0.0
+    }
+    timestamp: 1679050006
+    vehicle {
+      id: "DL1PC5516"
+      label: "DL1PC5516"
+    }
+  }
+}
+entity {
+  id: "DL1PD4355"
+  vehicle {
+    trip {
+      trip_id: "895_14_20"
+      start_time: "16:22:26"
+      start_date: "20230317"
+      route_id: "895"
+    }
+    position {
+      latitude: 28.674564
+      longitude: 77.13239
+      speed: 0.0
+    }
+    timestamp: 1679049989
+    vehicle {
+      id: "DL1PD4355"
+      label: "DL1PD4355"
+    }
+  }
+}
+entity {
+  id: "DL1PD4274"
+  vehicle {
+    trip {
+      trip_id: "573_08_42"
+      start_time: "09:03:22"
+      start_date: "20230316"
+      route_id: "573"
+    }
+    position {
+      latitude: 28.601112
+      longitude: 77.082054
+      speed: 0.0
+    }
+    timestamp: 1679049989
+    vehicle {
+      id: "DL1PD4274"
+      label: "DL1PD4274"
+    }
+  }
+}
+entity {
+  id: "DL1PC5985"
+  vehicle {
+    trip {
+      trip_id: "114_07_36"
+      start_time: "08:19:30"
+      start_date: "20230316"
+      route_id: "114"
+    }
+    position {
+      latitude: 28.720037
+      longitude: 77.06958
+      speed: 0.0
+    }
+    timestamp: 1679049988
+    vehicle {
+      id: "DL1PC5985"
+      label: "DL1PC5985"
+    }
+  }
+}
+entity {
+  id: "DL1PC4221"
+  vehicle {
+    trip {
+      trip_id: "1455_13_24"
+      start_time: "14:52:31"
+      start_date: "20230314"
+      route_id: "1455"
+    }
+    position {
+      latitude: 28.667767
+      longitude: 77.22333
+      speed: 0.0
+    }
+    timestamp: 1679049985
+    vehicle {
+      id: "DL1PC4221"
+      label: "DL1PC4221"
+    }
+  }
+}
+entity {
+  id: "DL1PD5337"
+  vehicle {
+    trip {
+      trip_id: "663_13_49"
+      start_time: "15:41:16"
+      start_date: "20230314"
+      route_id: "663"
+    }
+    position {
+      latitude: 28.589834
+      longitude: 77.25657
+      speed: 0.0
+    }
+    timestamp: 1679049983
+    vehicle {
+      id: "DL1PD5337"
+      label: "DL1PD5337"
+    }
+  }
+}
+entity {
+  id: "DL1PD1012"
+  vehicle {
+    trip {
+      trip_id: "156_12_46"
+      start_time: "14:35:36"
+      start_date: "20230314"
+      route_id: "156"
+    }
+    position {
+      latitude: 28.625334
+      longitude: 77.06654
+      speed: 0.0
+    }
+    timestamp: 1679049983
+    vehicle {
+      id: "DL1PD1012"
+      label: "DL1PD1012"
+    }
+  }
+}
+entity {
+  id: "DL1PD5339"
+  vehicle {
+    trip {
+      trip_id: "570_07_52"
+      start_time: "08:40:04"
+      start_date: "20230315"
+      route_id: "570"
+    }
+    position {
+      latitude: 28.629845
+      longitude: 77.24143
+      speed: 0.0
+    }
+    timestamp: 1679049982
+    vehicle {
+      id: "DL1PD5339"
+      label: "DL1PD5339"
+    }
+  }
+}
+entity {
+  id: "DL1PD5057"
+  vehicle {
+    trip {
+      trip_id: "136_10_05"
+      start_time: "11:04:46"
+      start_date: "20230317"
+      route_id: "136"
+    }
+    position {
+      latitude: 28.604906
+      longitude: 77.33257
+      speed: 0.0
+    }
+    timestamp: 1679049981
+    vehicle {
+      id: "DL1PD5057"
+      label: "DL1PD5057"
+    }
+  }
+}
+entity {
+  id: "DL1PD5777"
+  vehicle {
+    trip {
+      trip_id: "683_15_47"
+      start_time: "15:33:30"
+      start_date: "20230314"
+      route_id: "683"
+    }
+    position {
+      latitude: 28.674387
+      longitude: 77.134674
+      speed: 0.0
+    }
+    timestamp: 1679049968
+    vehicle {
+      id: "DL1PD5777"
+      label: "DL1PD5777"
+    }
+  }
+}
+entity {
+  id: "DL1PC6490"
+  vehicle {
+    trip {
+      trip_id: "253_15_48"
+      start_time: "16:11:17"
+      start_date: "20230314"
+      route_id: "253"
+    }
+    position {
+      latitude: 28.540302
+      longitude: 77.13137
+      speed: 0.0
+    }
+    timestamp: 1679049967
+    vehicle {
+      id: "DL1PC6490"
+      label: "DL1PC6490"
+    }
+  }
+}
+entity {
+  id: "DL1PC6376"
+  vehicle {
+    trip {
+      trip_id: "1398_19_17_250_new"
+      start_time: "19:17:25"
+      start_date: "20230315"
+      route_id: "1398"
+    }
+    position {
+      latitude: 28.651405
+      longitude: 77.15525
+      speed: 0.0
+    }
+    timestamp: 1679049966
+    vehicle {
+      id: "DL1PC6376"
+      label: "DL1PC6376"
+    }
+  }
+}
+entity {
+  id: "DL1PD4667"
+  vehicle {
+    trip {
+      trip_id: "740_14_51_2175_new"
+      start_time: "14:51:44"
+      start_date: "20230314"
+      route_id: "740"
+    }
+    position {
+      latitude: 28.612696
+      longitude: 77.1103
+      speed: 0.0
+    }
+    timestamp: 1679049964
+    vehicle {
+      id: "DL1PD4667"
+      label: "DL1PD4667"
+    }
+  }
+}
+entity {
+  id: "DL1PD5097"
+  vehicle {
+    trip {
+      trip_id: "812_14_28"
+      start_time: "16:18:50"
+      start_date: "20230317"
+      route_id: "812"
+    }
+    position {
+      latitude: 28.632544
+      longitude: 77.21663
+      speed: 0.0
+    }
+    timestamp: 1679049964
+    vehicle {
+      id: "DL1PD5097"
+      label: "DL1PD5097"
+    }
+  }
+}
+entity {
+  id: "DL1PD0698"
+  vehicle {
+    trip {
+      trip_id: "28_16_54"
+      start_time: "19:05:02"
+      start_date: "20230314"
+      route_id: "28"
+    }
+    position {
+      latitude: 28.62431
+      longitude: 77.06778
+      speed: 0.0
+    }
+    timestamp: 1679049963
+    vehicle {
+      id: "DL1PD0698"
+      label: "DL1PD0698"
+    }
+  }
+}
+entity {
+  id: "DL1PD0654"
+  vehicle {
+    trip {
+      trip_id: "1816_18_22"
+      start_time: "18:33:24"
+      start_date: "20230314"
+      route_id: "1816"
+    }
+    position {
+      latitude: 28.590094
+      longitude: 77.08674
+      speed: 0.0
+    }
+    timestamp: 1679049961
+    vehicle {
+      id: "DL1PD0654"
+      label: "DL1PD0654"
+    }
+  }
+}
+entity {
+  id: "DL1PD5529"
+  vehicle {
+    trip {
+      trip_id: "205_14_45"
+      start_time: "15:04:17"
+      start_date: "20230314"
+      route_id: "205"
+    }
+    position {
+      latitude: 28.748487
+      longitude: 77.08712
+      speed: 0.0
+    }
+    timestamp: 1679049959
+    vehicle {
+      id: "DL1PD5529"
+      label: "DL1PD5529"
+    }
+  }
+}
+entity {
+  id: "DL1PC6475"
+  vehicle {
+    trip {
+      trip_id: "918_15_45_1670_new"
+      start_time: "15:45:29"
+      start_date: "20230314"
+      route_id: "918"
+    }
+    position {
+      latitude: 28.596743
+      longitude: 77.256325
+      speed: 0.0
+    }
+    timestamp: 1679049956
+    vehicle {
+      id: "DL1PC6475"
+      label: "DL1PC6475"
+    }
+  }
+}
+entity {
+  id: "DL1PD2355"
+  vehicle {
+    trip {
+      trip_id: "1594_07_20"
+      start_time: "07:21:06"
+      start_date: "20230315"
+      route_id: "1594"
+    }
+    position {
+      latitude: 28.656334
+      longitude: 77.29147
+      speed: 0.0
+    }
+    timestamp: 1679049954
+    vehicle {
+      id: "DL1PD2355"
+      label: "DL1PD2355"
+    }
+  }
+}
+entity {
+  id: "DL1PD5378"
+  vehicle {
+    trip {
+      trip_id: "49_14_10"
+      start_time: "14:35:36"
+      start_date: "20230314"
+      route_id: "49"
+    }
+    position {
+      latitude: 28.67936
+      longitude: 77.09689
+      speed: 0.0
+    }
+    timestamp: 1679049954
+    vehicle {
+      id: "DL1PD5378"
+      label: "DL1PD5378"
+    }
+  }
+}
+entity {
+  id: "DL1PD5565"
+  vehicle {
+    trip {
+      trip_id: "1866_16_18_6559_new"
+      start_time: "16:18:50"
+      start_date: "20230317"
+      route_id: "1866"
+    }
+    position {
+      latitude: 28.63085
+      longitude: 77.149536
+      speed: 0.0
+    }
+    timestamp: 1679049952
+    vehicle {
+      id: "DL1PD5565"
+      label: "DL1PD5565"
+    }
+  }
+}
+entity {
+  id: "DL1PD5327"
+  vehicle {
+    trip {
+      trip_id: "136_09_10"
+      start_time: "10:04:26"
+      start_date: "20230315"
+      route_id: "136"
+    }
+    position {
+      latitude: 28.566141
+      longitude: 77.22961
+      speed: 0.0
+    }
+    timestamp: 1679049948
+    vehicle {
+      id: "DL1PD5327"
+      label: "DL1PD5327"
+    }
+  }
+}
+entity {
+  id: "DL1PD6343"
+  vehicle {
+    trip {
+      trip_id: "1815_14_46"
+      start_time: "15:26:11"
+      start_date: "20230314"
+      route_id: "1815"
+    }
+    position {
+      latitude: 28.704895
+      longitude: 77.129616
+      speed: 0.0
+    }
+    timestamp: 1679049944
+    vehicle {
+      id: "DL1PD6343"
+      label: "DL1PD6343"
+    }
+  }
+}
+entity {
+  id: "DL1PD4605"
+  vehicle {
+    trip {
+      trip_id: "740_14_01"
+      start_time: "14:51:44"
+      start_date: "20230314"
+      route_id: "740"
+    }
+    position {
+      latitude: 28.621317
+      longitude: 77.07036
+      speed: 0.0
+    }
+    timestamp: 1679049939
+    vehicle {
+      id: "DL1PD4605"
+      label: "DL1PD4605"
+    }
+  }
+}
+entity {
+  id: "DL1PD5050"
+  vehicle {
+    trip {
+      trip_id: "374_15_10_556_new"
+      start_time: "15:10:31"
+      start_date: "20230314"
+      route_id: "374"
+    }
+    position {
+      latitude: 28.66724
+      longitude: 77.21518
+      speed: 0.0
+    }
+    timestamp: 1679049936
+    vehicle {
+      id: "DL1PD5050"
+      label: "DL1PD5050"
+    }
+  }
+}
+entity {
+  id: "DL1PD4842"
+  vehicle {
+    trip {
+      trip_id: "1192_16_03"
+      start_time: "16:16:33"
+      start_date: "20230314"
+      route_id: "1192"
+    }
+    position {
+      latitude: 28.535498
+      longitude: 76.92127
+      speed: 0.0
+    }
+    timestamp: 1679049936
+    vehicle {
+      id: "DL1PD4842"
+      label: "DL1PD4842"
+    }
+  }
+}
+entity {
+  id: "DL1PD4832"
+  vehicle {
+    trip {
+      trip_id: "1861_12_13"
+      start_time: "13:11:44"
+      start_date: "20230317"
+      route_id: "1861"
+    }
+    position {
+      latitude: 28.635162
+      longitude: 77.09256
+      speed: 0.0
+    }
+    timestamp: 1679049933
+    vehicle {
+      id: "DL1PD4832"
+      label: "DL1PD4832"
+    }
+  }
+}
+entity {
+  id: "DL1PC6368"
+  vehicle {
+    trip {
+      trip_id: "1631_15_23"
+      start_time: "15:30:38"
+      start_date: "20230314"
+      route_id: "1631"
+    }
+    position {
+      latitude: 28.532263
+      longitude: 77.10602
+      speed: 0.0
+    }
+    timestamp: 1679049927
+    vehicle {
+      id: "DL1PC6368"
+      label: "DL1PC6368"
+    }
+  }
+}
+entity {
+  id: "DL1PD4867"
+  vehicle {
+    trip {
+      trip_id: "1057_15_5_7166_new"
+      start_time: "15:05:37"
+      start_date: "20230317"
+      route_id: "1057"
+    }
+    position {
+      latitude: 28.620554
+      longitude: 77.045334
+      speed: 0.0
+    }
+    timestamp: 1679049922
+    vehicle {
+      id: "DL1PD4867"
+      label: "DL1PD4867"
+    }
+  }
+}
+entity {
+  id: "DL1PD4946"
+  vehicle {
+    trip {
+      trip_id: "43_14_11"
+      start_time: "15:16:17"
+      start_date: "20230314"
+      route_id: "43"
+    }
+    position {
+      latitude: 28.707767
+      longitude: 77.177895
+      speed: 0.0
+    }
+    timestamp: 1679049921
+    vehicle {
+      id: "DL1PD4946"
+      label: "DL1PD4946"
+    }
+  }
+}
+entity {
+  id: "DL1PD5361"
+  vehicle {
+    trip {
+      trip_id: "226_15_3_4709_new"
+      start_time: "15:03:14"
+      start_date: "20230314"
+      route_id: "226"
+    }
+    position {
+      latitude: 28.624468
+      longitude: 77.229774
+      speed: 0.0
+    }
+    timestamp: 1679049909
+    vehicle {
+      id: "DL1PD5361"
+      label: "DL1PD5361"
+    }
+  }
+}
+entity {
+  id: "DL1PD5474"
+  vehicle {
+    trip {
+      trip_id: "539_14_24"
+      start_time: "15:17:05"
+      start_date: "20230314"
+      route_id: "539"
+    }
+    position {
+      latitude: 28.612719
+      longitude: 76.99349
+      speed: 0.0
+    }
+    timestamp: 1679049907
+    vehicle {
+      id: "DL1PD5474"
+      label: "DL1PD5474"
+    }
+  }
+}
+entity {
+  id: "DL1PD4423"
+  vehicle {
+    trip {
+      trip_id: "1959_14_08"
+      start_time: "15:11:33"
+      start_date: "20230314"
+      route_id: "1959"
+    }
+    position {
+      latitude: 28.653337
+      longitude: 77.20239
+      speed: 0.0
+    }
+    timestamp: 1679049905
+    vehicle {
+      id: "DL1PD4423"
+      label: "DL1PD4423"
+    }
+  }
+}
+entity {
+  id: "DL1PC5940"
+  vehicle {
+    trip {
+      trip_id: "664_10_40_4399_new"
+      start_time: "10:40:53"
+      start_date: "20230317"
+      route_id: "664"
+    }
+    position {
+      latitude: 28.727493
+      longitude: 77.09169
+      speed: 0.0
+    }
+    timestamp: 1679049903
+    vehicle {
+      id: "DL1PC5940"
+      label: "DL1PC5940"
+    }
+  }
+}
+entity {
+  id: "DL1PD4682"
+  vehicle {
+    trip {
+      trip_id: "587_16_25"
+      start_time: "16:10:14"
+      start_date: "20230314"
+      route_id: "587"
+    }
+    position {
+      latitude: 28.669039
+      longitude: 77.2269
+      speed: 0.0
+    }
+    timestamp: 1679049899
+    vehicle {
+      id: "DL1PD4682"
+      label: "DL1PD4682"
+    }
+  }
+}
+entity {
+  id: "DL1PD0734"
+  vehicle {
+    trip {
+      trip_id: "693_15_30"
+      start_time: "16:59:00"
+      start_date: "20230314"
+      route_id: "693"
+    }
+    position {
+      latitude: 28.658516
+      longitude: 77.1438
+      speed: 0.0
+    }
+    timestamp: 1679049887
+    vehicle {
+      id: "DL1PD0734"
+      label: "DL1PD0734"
+    }
+  }
+}
+entity {
+  id: "DL1PD0329"
+  vehicle {
+    trip {
+      trip_id: "1439_13_42"
+      start_time: "14:35:58"
+      start_date: "20230314"
+      route_id: "1439"
+    }
+    position {
+      latitude: 28.667501
+      longitude: 77.21151
+      speed: 0.0
+    }
+    timestamp: 1679049887
+    vehicle {
+      id: "DL1PD0329"
+      label: "DL1PD0329"
+    }
+  }
+}
+entity {
+  id: "DL1PD5044"
+  vehicle {
+    trip {
+      trip_id: "72_9_3_3425_new"
+      start_time: "09:03:17"
+      start_date: "20230315"
+      route_id: "72"
+    }
+    position {
+      latitude: 28.55276
+      longitude: 77.10562
+      speed: 0.0
+    }
+    timestamp: 1679049887
+    vehicle {
+      id: "DL1PD5044"
+      label: "DL1PD5044"
+    }
+  }
+}
+entity {
+  id: "DL1PD5166"
+  vehicle {
+    trip {
+      trip_id: "1086_23_58_4429_new"
+      start_time: "23:58:59"
+      start_date: "20230314"
+      route_id: "1086"
+    }
+    position {
+      latitude: 28.623463
+      longitude: 77.05506
+      speed: 0.0
+    }
+    timestamp: 1679049881
+    vehicle {
+      id: "DL1PD5166"
+      label: "DL1PD5166"
+    }
+  }
+}
+entity {
+  id: "DL1PD4906"
+  vehicle {
+    trip {
+      trip_id: "964_15_08"
+      start_time: "15:58:45"
+      start_date: "20230314"
+      route_id: "964"
+    }
+    position {
+      latitude: 28.69837
+      longitude: 77.2054
+      speed: 0.0
+    }
+    timestamp: 1679049877
+    vehicle {
+      id: "DL1PD4906"
+      label: "DL1PD4906"
+    }
+  }
+}
+entity {
+  id: "DL1PD4617"
+  vehicle {
+    trip {
+      trip_id: "15_16_50"
+      start_time: "16:52:46"
+      start_date: "20230314"
+      route_id: "15"
+    }
+    position {
+      latitude: 28.667063
+      longitude: 77.18189
+      speed: 0.0
+    }
+    timestamp: 1679049876
+    vehicle {
+      id: "DL1PD4617"
+      label: "DL1PD4617"
+    }
+  }
+}
+entity {
+  id: "DL1PD4368"
+  vehicle {
+    trip {
+      trip_id: "1912_15_16"
+      start_time: "16:21:28"
+      start_date: "20230314"
+      route_id: "1912"
+    }
+    position {
+      latitude: 28.707842
+      longitude: 77.17521
+      speed: 0.0
+    }
+    timestamp: 1679049875
+    vehicle {
+      id: "DL1PD4368"
+      label: "DL1PD4368"
+    }
+  }
+}
+entity {
+  id: "DL1PD4416"
+  vehicle {
+    trip {
+      trip_id: "904_14_35_1716_new"
+      start_time: "14:35:35"
+      start_date: "20230314"
+      route_id: "904"
+    }
+    position {
+      latitude: 28.804533
+      longitude: 77.02782
+      speed: 0.0
+    }
+    timestamp: 1679049874
+    vehicle {
+      id: "DL1PD4416"
+      label: "DL1PD4416"
+    }
+  }
+}
+entity {
+  id: "DL1PD0262"
+  vehicle {
+    trip {
+      trip_id: "693_17_05"
+      start_time: "18:27:18"
+      start_date: "20230314"
+      route_id: "693"
+    }
+    position {
+      latitude: 28.620031
+      longitude: 76.927414
+      speed: 0.0
+    }
+    timestamp: 1679049873
+    vehicle {
+      id: "DL1PD0262"
+      label: "DL1PD0262"
+    }
+  }
+}
+entity {
+  id: "DL1PD5040"
+  vehicle {
+    trip {
+      trip_id: "1179_20_00"
+      start_time: "20:23:04"
+      start_date: "20230315"
+      route_id: "1179"
+    }
+    position {
+      latitude: 28.613869
+      longitude: 77.29175
+      speed: 0.0
+    }
+    timestamp: 1679049871
+    vehicle {
+      id: "DL1PD5040"
+      label: "DL1PD5040"
+    }
+  }
+}
+entity {
+  id: "DL1PD5776"
+  vehicle {
+    trip {
+      trip_id: "286_08_09"
+      start_time: "08:40:04"
+      start_date: "20230315"
+      route_id: "286"
+    }
+    position {
+      latitude: 28.627563
+      longitude: 77.27901
+      speed: 0.0
+    }
+    timestamp: 1679049871
+    vehicle {
+      id: "DL1PD5776"
+      label: "DL1PD5776"
+    }
+  }
+}
+entity {
+  id: "DL1PD4716"
+  vehicle {
+    trip {
+      trip_id: "37_19_55"
+      start_time: "21:09:29"
+      start_date: "20230314"
+      route_id: "37"
+    }
+    position {
+      latitude: 28.620724
+      longitude: 77.07138
+      speed: 0.0
+    }
+    timestamp: 1679049870
+    vehicle {
+      id: "DL1PD4716"
+      label: "DL1PD4716"
+    }
+  }
+}
+entity {
+  id: "DL1PD4649"
+  vehicle {
+    trip {
+      trip_id: "397_14_51_7439_new"
+      start_time: "14:51:44"
+      start_date: "20230314"
+      route_id: "397"
+    }
+    position {
+      latitude: 28.66758
+      longitude: 77.05529
+      speed: 0.0
+    }
+    timestamp: 1679049869
+    vehicle {
+      id: "DL1PD4649"
+      label: "DL1PD4649"
+    }
+  }
+}
+entity {
+  id: "DL1PD5314"
+  vehicle {
+    trip {
+      trip_id: "386_14_25"
+      start_time: "15:34:33"
+      start_date: "20230314"
+      route_id: "386"
+    }
+    position {
+      latitude: 28.729767
+      longitude: 77.19289
+      speed: 0.0
+    }
+    timestamp: 1679049858
+    vehicle {
+      id: "DL1PD5314"
+      label: "DL1PD5314"
+    }
+  }
+}
+entity {
+  id: "DL1PD0616"
+  vehicle {
+    trip {
+      trip_id: "1446_14_22"
+      start_time: "14:35:37"
+      start_date: "20230314"
+      route_id: "1446"
+    }
+    position {
+      latitude: 28.66448
+      longitude: 77.20822
+      speed: 0.0
+    }
+    timestamp: 1679049849
+    vehicle {
+      id: "DL1PD0616"
+      label: "DL1PD0616"
+    }
+  }
+}
+entity {
+  id: "DL1PD0021"
+  vehicle {
+    trip {
+      trip_id: "693_15_16_175_new"
+      start_time: "15:16:33"
+      start_date: "20230314"
+      route_id: "693"
+    }
+    position {
+      latitude: 28.622908
+      longitude: 76.92079
+      speed: 0.0
+    }
+    timestamp: 1679049845
+    vehicle {
+      id: "DL1PD0021"
+      label: "DL1PD0021"
+    }
+  }
+}
+entity {
+  id: "DL1PD5597"
+  vehicle {
+    trip {
+      trip_id: "1872_15_47"
+      start_time: "16:11:17"
+      start_date: "20230314"
+      route_id: "1872"
+    }
+    position {
+      latitude: 28.704348
+      longitude: 77.256996
+      speed: 0.0
+    }
+    timestamp: 1679049840
+    vehicle {
+      id: "DL1PD5597"
+      label: "DL1PD5597"
+    }
+  }
+}
+entity {
+  id: "DL1PD4357"
+  vehicle {
+    trip {
+      trip_id: "585_14_20"
+      start_time: "14:35:59"
+      start_date: "20230314"
+      route_id: "585"
+    }
+    position {
+      latitude: 28.668684
+      longitude: 77.165306
+      speed: 0.0
+    }
+    timestamp: 1679049836
+    vehicle {
+      id: "DL1PD4357"
+      label: "DL1PD4357"
+    }
+  }
+}
+entity {
+  id: "DL1PD3779"
+  vehicle {
+    trip {
+      trip_id: "326_15_40"
+      start_time: "15:33:30"
+      start_date: "20230314"
+      route_id: "326"
+    }
+    position {
+      latitude: 28.578966
+      longitude: 77.21438
+      speed: 0.0
+    }
+    timestamp: 1679049826
+    vehicle {
+      id: "DL1PD3779"
+      label: "DL1PD3779"
+    }
+  }
+}
+entity {
+  id: "DL1PD5256"
+  vehicle {
+    trip {
+      trip_id: "745_06_50"
+      start_time: "08:04:06"
+      start_date: "20230315"
+      route_id: "745"
+    }
+    position {
+      latitude: 28.514841
+      longitude: 77.23094
+      speed: 0.0
+    }
+    timestamp: 1679049822
+    vehicle {
+      id: "DL1PD5256"
+      label: "DL1PD5256"
+    }
+  }
+}
+entity {
+  id: "DL1PD5885"
+  vehicle {
+    trip {
+      trip_id: "1384_13_24"
+      start_time: "14:57:11"
+      start_date: "20230314"
+      route_id: "1384"
+    }
+    position {
+      latitude: 28.64349
+      longitude: 77.18608
+      speed: 0.0
+    }
+    timestamp: 1679049820
+    vehicle {
+      id: "DL1PD5885"
+      label: "DL1PD5885"
+    }
+  }
+}
+entity {
+  id: "DL1PD5129"
+  vehicle {
+    trip {
+      trip_id: "1510_10_35"
+      start_time: "10:34:32"
+      start_date: "20230315"
+      route_id: "1510"
+    }
+    position {
+      latitude: 28.63648
+      longitude: 77.22525
+      speed: 0.0
+    }
+    timestamp: 1679049820
+    vehicle {
+      id: "DL1PD5129"
+      label: "DL1PD5129"
+    }
+  }
+}
+entity {
+  id: "DL1PD3636"
+  vehicle {
+    trip {
+      trip_id: "1576_18_02"
+      start_time: "19:17:25"
+      start_date: "20230315"
+      route_id: "1576"
+    }
+    position {
+      latitude: 28.600218
+      longitude: 77.06095
+      speed: 0.0
+    }
+    timestamp: 1679049817
+    vehicle {
+      id: "DL1PD3636"
+      label: "DL1PD3636"
+    }
+  }
+}
+entity {
+  id: "DL1PD4266"
+  vehicle {
+    trip {
+      trip_id: "648_15_39_1055_new"
+      start_time: "15:39:42"
+      start_date: "20230314"
+      route_id: "648"
+    }
+    position {
+      latitude: 28.534428
+      longitude: 77.09034
+      speed: 0.0
+    }
+    timestamp: 1679049816
+    vehicle {
+      id: "DL1PD4266"
+      label: "DL1PD4266"
+    }
+  }
+}
+entity {
+  id: "DL1PD4712"
+  vehicle {
+    trip {
+      trip_id: "238_11_50"
+      start_time: "11:52:55"
+      start_date: "20230317"
+      route_id: "238"
+    }
+    position {
+      latitude: 28.674587
+      longitude: 77.13157
+      speed: 0.0
+    }
+    timestamp: 1679049813
+    vehicle {
+      id: "DL1PD4712"
+      label: "DL1PD4712"
+    }
+  }
+}
+entity {
+  id: "DL1PD6060"
+  vehicle {
+    trip {
+      trip_id: "1757_15_57_8247_new"
+      start_time: "15:57:42"
+      start_date: "20230314"
+      route_id: "1757"
+    }
+    position {
+      latitude: 28.644163
+      longitude: 77.19977
+      speed: 0.0
+    }
+    timestamp: 1679049799
+    vehicle {
+      id: "DL1PD6060"
+      label: "DL1PD6060"
+    }
+  }
+}
+entity {
+  id: "DL1PD5674"
+  vehicle {
+    trip {
+      trip_id: "194_16_50"
+      start_time: "17:55:20"
+      start_date: "20230314"
+      route_id: "194"
+    }
+    position {
+      latitude: 28.525393
+      longitude: 77.154755
+      speed: 0.0
+    }
+    timestamp: 1679049798
+    vehicle {
+      id: "DL1PD5674"
+      label: "DL1PD5674"
+    }
+  }
+}
+entity {
+  id: "DL1PD4997"
+  vehicle {
+    trip {
+      trip_id: "1943_13_24"
+      start_time: "15:34:43"
+      start_date: "20230317"
+      route_id: "1943"
+    }
+    position {
+      latitude: 28.69705
+      longitude: 77.11619
+      speed: 0.0
+    }
+    timestamp: 1679049797
+    vehicle {
+      id: "DL1PD4997"
+      label: "DL1PD4997"
+    }
+  }
+}
+entity {
+  id: "DL1PD2475"
+  vehicle {
+    trip {
+      trip_id: "1374_19_05"
+      start_time: "19:46:53"
+      start_date: "20230314"
+      route_id: "1374"
+    }
+    position {
+      latitude: 28.643152
+      longitude: 77.31685
+      speed: 0.0
+    }
+    timestamp: 1679049797
+    vehicle {
+      id: "DL1PD2475"
+      label: "DL1PD2475"
+    }
+  }
+}
+entity {
+  id: "DL1PC6880"
+  vehicle {
+    trip {
+      trip_id: "762_18_30"
+      start_time: "19:41:15"
+      start_date: "20230315"
+      route_id: "762"
+    }
+    position {
+      latitude: 28.657036
+      longitude: 77.23678
+      speed: 0.0
+    }
+    timestamp: 1679049795
+    vehicle {
+      id: "DL1PC6880"
+      label: "DL1PC6880"
+    }
+  }
+}
+entity {
+  id: "DL1PD4197"
+  vehicle {
+    trip {
+      trip_id: "957_15_51_9179_new"
+      start_time: "15:51:27"
+      start_date: "20230314"
+      route_id: "957"
+    }
+    position {
+      latitude: 28.666037
+      longitude: 77.00013
+      speed: 0.0
+    }
+    timestamp: 1679049788
+    vehicle {
+      id: "DL1PD4197"
+      label: "DL1PD4197"
+    }
+  }
+}
+entity {
+  id: "DL1PD5717"
+  vehicle {
+    trip {
+      trip_id: "1364_07_15"
+      start_time: "07:34:06"
+      start_date: "20230317"
+      route_id: "1364"
+    }
+    position {
+      latitude: 28.68487
+      longitude: 77.18202
+      speed: 0.0
+    }
+    timestamp: 1679049783
+    vehicle {
+      id: "DL1PD5717"
+      label: "DL1PD5717"
+    }
+  }
+}
+entity {
+  id: "DL1PD5098"
+  vehicle {
+    trip {
+      trip_id: "447_15_22_9527_new"
+      start_time: "15:22:17"
+      start_date: "20230314"
+      route_id: "447"
+    }
+    position {
+      latitude: 28.734829
+      longitude: 77.15542
+      speed: 0.0
+    }
+    timestamp: 1679049777
+    vehicle {
+      id: "DL1PD5098"
+      label: "DL1PD5098"
+    }
+  }
+}
+entity {
+  id: "DL1PD5539"
+  vehicle {
+    trip {
+      trip_id: "1111_15_58"
+      start_time: "16:22:31"
+      start_date: "20230314"
+      route_id: "1111"
+    }
+    position {
+      latitude: 28.614862
+      longitude: 76.97716
+      speed: 0.0
+    }
+    timestamp: 1679049768
+    vehicle {
+      id: "DL1PD5539"
+      label: "DL1PD5539"
+    }
+  }
+}
+entity {
+  id: "DL1PD5815"
+  vehicle {
+    trip {
+      trip_id: "141_19_19_4296_new"
+      start_time: "19:19:14"
+      start_date: "20230315"
+      route_id: "141"
+    }
+    position {
+      latitude: 28.656107
+      longitude: 77.12712
+      speed: 0.0
+    }
+    timestamp: 1679049763
+    vehicle {
+      id: "DL1PD5815"
+      label: "DL1PD5815"
+    }
+  }
+}
+entity {
+  id: "DL1PD5437"
+  vehicle {
+    trip {
+      trip_id: "463_15_5_4887_new"
+      start_time: "15:05:19"
+      start_date: "20230314"
+      route_id: "463"
+    }
+    position {
+      latitude: 28.64062
+      longitude: 77.08557
+      speed: 0.0
+    }
+    timestamp: 1679049743
+    vehicle {
+      id: "DL1PD5437"
+      label: "DL1PD5437"
+    }
+  }
+}
+entity {
+  id: "DL1PD4267"
+  vehicle {
+    trip {
+      trip_id: "827_12_24"
+      start_time: "12:40:45"
+      start_date: "20230317"
+      route_id: "827"
+    }
+    position {
+      latitude: 28.639109
+      longitude: 76.9599
+      speed: 0.0
+    }
+    timestamp: 1679049732
+    vehicle {
+      id: "DL1PD4267"
+      label: "DL1PD4267"
+    }
+  }
+}
+entity {
+  id: "DL1PD4351"
+  vehicle {
+    trip {
+      trip_id: "1230_08_36"
+      start_time: "10:51:34"
+      start_date: "20230315"
+      route_id: "1230"
+    }
+    position {
+      latitude: 28.620811
+      longitude: 77.02287
+      speed: 0.0
+    }
+    timestamp: 1679049727
+    vehicle {
+      id: "DL1PD4351"
+      label: "DL1PD4351"
+    }
+  }
+}
+entity {
+  id: "DL1PD5648"
+  vehicle {
+    trip {
+      trip_id: "663_14_53"
+      start_time: "16:18:50"
+      start_date: "20230317"
+      route_id: "663"
+    }
+    position {
+      latitude: 28.66546
+      longitude: 77.23602
+      speed: 0.0
+    }
+    timestamp: 1679049720
+    vehicle {
+      id: "DL1PD5648"
+      label: "DL1PD5648"
+    }
+  }
+}
+entity {
+  id: "DL1PD4627"
+  vehicle {
+    trip {
+      trip_id: "1250_15_28"
+      start_time: "15:57:42"
+      start_date: "20230314"
+      route_id: "1250"
+    }
+    position {
+      latitude: 28.634836
+      longitude: 77.061905
+      speed: 0.0
+    }
+    timestamp: 1679049720
+    vehicle {
+      id: "DL1PD4627"
+      label: "DL1PD4627"
+    }
+  }
+}
+entity {
+  id: "DL1PD4991"
+  vehicle {
+    trip {
+      trip_id: "1627_14_51"
+      start_time: "16:04:17"
+      start_date: "20230314"
+      route_id: "1627"
+    }
+    position {
+      latitude: 28.796312
+      longitude: 77.13903
+      speed: 0.0
+    }
+    timestamp: 1679049720
+    vehicle {
+      id: "DL1PD4991"
+      label: "DL1PD4991"
+    }
+  }
+}
+entity {
+  id: "DL1PD5489"
+  vehicle {
+    trip {
+      trip_id: "51_16_14"
+      start_time: "16:24:51"
+      start_date: "20230314"
+      route_id: "51"
+    }
+    position {
+      latitude: 28.69454
+      longitude: 76.995735
+      speed: 0.0
+    }
+    timestamp: 1679049719
+    vehicle {
+      id: "DL1PD5489"
+      label: "DL1PD5489"
+    }
+  }
+}
+entity {
+  id: "DL1PD5662"
+  vehicle {
+    trip {
+      trip_id: "1080_09_20"
+      start_time: "09:35:34"
+      start_date: "20230317"
+      route_id: "1080"
+    }
+    position {
+      latitude: 28.698229
+      longitude: 77.20463
+      speed: 0.0
+    }
+    timestamp: 1679049716
+    vehicle {
+      id: "DL1PD5662"
+      label: "DL1PD5662"
+    }
+  }
+}
+entity {
+  id: "DL1PC6840"
+  vehicle {
+    trip {
+      trip_id: "637_13_52"
+      start_time: "14:36:00"
+      start_date: "20230314"
+      route_id: "637"
+    }
+    position {
+      latitude: 28.607796
+      longitude: 77.10397
+      speed: 0.0
+    }
+    timestamp: 1679049715
+    vehicle {
+      id: "DL1PC6840"
+      label: "DL1PC6840"
+    }
+  }
+}
