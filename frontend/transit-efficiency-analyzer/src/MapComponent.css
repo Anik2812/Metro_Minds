@@ -1,9 +1,10 @@
 /* MapComponent.css */
-input {
-    padding: 10px;
-    margin: 10px;
-    width: 200px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  
+
+.map-container {
+  height: 80vh;
+  width: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}

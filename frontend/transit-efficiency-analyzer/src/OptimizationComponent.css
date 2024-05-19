@@ -1,0 +1,43 @@
+/* OptimizationComponent.css */
+
+.optimization-container {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .optimize-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .optimize-button:hover {
+    background-color: #218838;
+  }
+  
+  .optimization-result {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .optimization-result h3 {
+    margin-top: 0;
+    color: #343a40;
+  }
+  
+  .optimization-result h4 {
+    margin-bottom: 5px;
+    color: #007bff;
+  }
+  
